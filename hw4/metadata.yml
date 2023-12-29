@@ -1,0 +1,12 @@
+---
+:id: 172944335
+:submitters:
+- :name: Annabelle Huang
+  :email: annabelle.huang@yale.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-04-06 02:40:36.952913000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-04-05 19:40:36.952913000 Z
+:status: processed
+:score: 100.0
